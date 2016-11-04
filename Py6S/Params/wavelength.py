@@ -1145,7 +1145,8 @@ class PredefinedWavelengths:
                          0.99031, 0.98586, 0.98433, 0.98171, 0.96554, 0.91002,
                          0.78868, 0.60765, 0.41211, 0.25045, 0.14086, 0.07530,
                          0.03827, 0.01809, 0.00721, ]))
->>>>>>> sentinel_spectral_response_functions
+
+
     # All of the original predefined wavelengths from 6S
     # CONSTANT_NAME = (ID for Constant, Start Wavelength, End Wavelength)
     METEOSAT_VISIBLE = (-2, 0.35, 1.11)
